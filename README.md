@@ -1,8 +1,10 @@
 # Lumple Font 1.0.0
 
+<https://kennyfully88.github.io/lumple_font_1.0.0/>
+
 ![img](assets/lumple_font_pr.png)
 
-## Check the live demo [HERE](#)
+## Check the live demo [HERE](https://kennyfully88.github.io/lumple_font_1.0.0/)
 
 ![img](assets/demo.gif)
 
